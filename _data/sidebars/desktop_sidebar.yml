@@ -29,7 +29,11 @@ entries:
 
     - title: Installation
       url: /desktop-installation.html
-      output: web
+      output: web, pdf
+    
+    - title: Setup
+      url: /desktop-setup.html
+      output: web, pdf
 
   - title: Another heading
     output: web, pdf

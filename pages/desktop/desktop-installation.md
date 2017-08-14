@@ -4,7 +4,7 @@ keywords: biz analyst, bizanalyst, bizanalyst desktop installation, install, biz
 summary: "Steps to install Biz Analyst Desktop Application on Windows PC"
 sidebar: desktop_sidebar
 permalink: desktop-installation.html
-folder: Biz Analyst Desktop
+folder: desktop
 ---
 
 ## System Requirements
