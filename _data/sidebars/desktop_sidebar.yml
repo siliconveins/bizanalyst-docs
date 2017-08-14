@@ -35,21 +35,25 @@ entries:
       url: /desktop-setup.html
       output: web, pdf
 
-  - title: Another heading
+  - title: Features
     output: web, pdf
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
+    - title: Sync Interval
+      url: /desktop-sync-interval.html
       output: web, pdf
-
-    - title: Sample 5
-      url: /p1_sample5.html
+    
+    - title: Delete Data
+      url: /desktop-delete-data.html
       output: web, pdf
-
-    - title: Sample 6
-      url: /p1_sample6.html
+    
+    - title: Delete Company
+      url: /desktop-delete-company.html
       output: web, pdf
-
-    - title: Sample 7
-      url: /p1_sample7.html
+    
+    - title: Merge Company
+      url: /desktop-merge-company.html
+      output: web, pdf
+    
+    - title: Reset Password
+      url: /desktop-reset-password
       output: web, pdf
