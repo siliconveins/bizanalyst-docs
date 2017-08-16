@@ -22,4 +22,7 @@ Download the Biz Analyst Desktop application from [here](https://bizanalyst.in/#
 Double click the setup file downloaded from the link above and the rest is handled on its own.
 The application should start by itself after installation is completed and a shortcut is created on your computer desktop.
 
+<br />
+[Setup Desktop Application](desktop-setup.html)
+
 {% include links.html %}
