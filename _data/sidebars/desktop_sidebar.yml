@@ -55,5 +55,5 @@ entries:
       output: web, pdf
     
     - title: Reset Password
-      url: /desktop-reset-password
+      url: /desktop-reset-password.html
       output: web, pdf
