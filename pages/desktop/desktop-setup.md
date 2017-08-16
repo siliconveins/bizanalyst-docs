@@ -29,7 +29,7 @@ If you downloaded the Biz Analyst Desktop application by yourself from the websi
 
 ### 4. Tally configuration
 
-Open **&quot;Tally ERP 9&quot;** and open the company which needs to be synced. [Find out tally ODBC port number from tally](tally-odbc-port.html) and set the tally configuration as below:
+Open **&quot;Tally ERP 9&quot;** and open the company which needs to be synced. [Find out tally ODBC port number from tally](tally-odbc-port.html){:target="_blank"} and set the tally configuration as below:
 ![Tally configuration](images/desktop/4_tally_configuration.png "Tally configuration")
 
 
