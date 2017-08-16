@@ -50,7 +50,7 @@ entries:
     output: web, pdf
     folderitems:
       - title: Desktop App
-        url: /desktop.html
+        url: /desktop-installation.html
         output: web, pdf
       
       - title: Android App

@@ -23,9 +23,9 @@ entries:
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Overview
-      url: /desktop.html
-      output: web, pdf
+    # - title: Overview
+    #   url: /desktop.html
+    #   output: web, pdf
 
     - title: Installation
       url: /desktop-installation.html
@@ -57,3 +57,10 @@ entries:
     - title: Reset Password
       url: /desktop-reset-password.html
       output: web, pdf
+  
+  - title: Miscellaneous
+    output: web, pdf
+    folderitems:
+      - title: Tally ODBC Port
+        url: /tally-odbc-port.html
+        output: web, pdf
