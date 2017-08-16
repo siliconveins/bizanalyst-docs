@@ -1,5 +1,5 @@
 ---
-title: Biz Analyst Desktop Sync Interval
+title: Biz Analyst Desktop - Sync Interval
 keywords: biz analyst, bizanalyst, bizanalyst desktop installation, install, bizanalyst installation, sync interval, biz analyst sync, bizanalyst sync, biz analyst sync interval
 summary: "Set the frequency to sync Tally ERP 9 data"
 sidebar: desktop_sidebar

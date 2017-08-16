@@ -1,5 +1,5 @@
 ---
-title: Biz Analyst Desktop Reset Password
+title: Biz Analyst Desktop - Reset Password
 keywords: biz analyst, bizanalyst, bizanalyst desktop installation, install, bizanalyst installation, biz analyst sync, reset password, bizanalyst reset password 
 summary: "Reset your Biz Analyst account password"
 sidebar: desktop_sidebar

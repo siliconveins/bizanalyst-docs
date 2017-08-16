@@ -1,5 +1,5 @@
 ---
-title: Biz Analyst Desktop Setup
+title: Biz Analyst Desktop - Setup
 keywords: biz analyst, bizanalyst, bizanalyst desktop installation, install, bizanalyst installation
 summary: "Setting up desktop application and get it running"
 sidebar: desktop_sidebar

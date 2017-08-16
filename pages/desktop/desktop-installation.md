@@ -1,5 +1,5 @@
 ---
-title: Biz Analyst Desktop Installation
+title: Biz Analyst Desktop - Installation
 keywords: biz analyst, bizanalyst, bizanalyst desktop installation, install, bizanalyst installation
 summary: "Steps to install Biz Analyst Desktop Application on Windows PC"
 sidebar: desktop_sidebar
