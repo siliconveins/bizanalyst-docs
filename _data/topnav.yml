@@ -12,7 +12,7 @@ topnav:
     - title: Android App
       url: android-add-user.html
     - title: IOS App
-      url: ios.html
+      url: ios-add-user.html
 
 #Topnav dropdowns
 # topnav_dropdowns:
