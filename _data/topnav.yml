@@ -10,7 +10,7 @@ topnav:
     - title: Desktop App
       url: desktop-installation.html
     - title: Android App
-      url: android.html
+      url: android-add-user.html
     - title: IOS App
       url: ios.html
 

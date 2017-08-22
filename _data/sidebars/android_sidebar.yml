@@ -2,55 +2,14 @@
 
 
 entries:
-- title: Android
-  product: Android
-  version: 1.0
+- title: Android Application
+  product: Android Application
+  version: 1.x
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage
-      output: pdf
-      type: frontmatter
-
-  - title: Android app
+  - title: Andoird Features
     output: web, pdf
     folderitems:
-    - title: Installation
-      url: /android-installation.html
-      output: web
-
-    - title: Select Company
-      url: /select-company.html
+    - title: Adding User and Give Permissions
+      url: /android-add-user.html
       output: web, pdf
-
-    - title: Switch Company
-      url: /switch-company.html
-      output: web, pdf
-
-  # - title: Another heading
-  #   output: web, pdf
-
-  #   folderitems:
-  #   - title: Sample 4
-  #     url: /p1_sample4.html
-  #     output: web, pdf
-
-  #   - title: Sample 5
-  #     url: /p1_sample5.html
-  #     output: web, pdf
-
-  #   - title: Sample 6
-  #     url: /p1_sample6.html
-  #     output: web, pdf
-
-  #   - title: Sample 7
-  #     url: /p1_sample7.html
-  #     output: web, pdf

@@ -54,7 +54,7 @@ entries:
         output: web, pdf
       
       - title: Android App
-        url: /android.html
+        url: /android-add-user.html
         output: web, pdf
       
       - title: IOS App
