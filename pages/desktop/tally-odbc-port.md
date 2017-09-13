@@ -1,7 +1,7 @@
 ---
-title: Biz Analyst Tally ODBC PORT
+title: How to Enable Tally ODBC Port
 keywords: biz analyst, bizanalyst, bizanalyst desktop installation, install, bizanalyst installation
-summary: "Get / Setup Tally ODBC port"
+summary: "Enable Tally ODBC Port for allowing other applications to communicate with Tally to get access to the data"
 sidebar: desktop_sidebar
 permalink: tally-odbc-port.html
 folder: desktop
@@ -9,7 +9,7 @@ folder: desktop
 
 ## Find ODBC Port
 
-Check for ODBC Port number on the bottom section of **Tally ERP 9** screen inside the configuration box. It should be something like *&quot;9000&quot;*. Use this number to setup **Tally ERP 9** with **Biz Analyst Desktop** application.
+Check for ODBC Port number on the bottom section of **Tally ERP 9** screen inside the configuration box. By default, it should be *&quot;9000&quot;*. Use this number to setup **Tally ERP 9** with **Biz Analyst Desktop** application.
 
 If you do not see this port number you can easily setup ODBC port number by following these [instructions](#setup-odbc-port)
 
