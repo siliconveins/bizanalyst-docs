@@ -12,7 +12,7 @@ site_title: Biz Analyst documentation
 company_name: Biz Analyst
 # this appears in the footer
 
-github_editme_path: siliconveins/bizanalyst-docs/blob/gh-pages/
+# github_editme_path: siliconveins/bizanalyst-docs/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: 
