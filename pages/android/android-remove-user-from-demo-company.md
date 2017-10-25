@@ -14,16 +14,16 @@ folder: android
 
 2. Now click on *Companies*.
 
-3. Select 'Demo Company'  
+3. Select 'Demo Company'.
 
 4. From the *Dashboard / Home* screen click on the *three dash icon* on the top left corner.  
 ![Dashboard](images/android-permissions/android-permission-1.jpg "Dashboard"){:height="400px" width="225px"}  
 
 5. Now click on *Users*.  
-![More menu](images/android-permissions/android-permission-2.jpg "More menu"){:height="400px" width="225px"}  
+![More menu](images/android-permissions/android-permission-2.jpg "More menu"){:height="400px" width="225px"}
 
-6. You will see your user name in that screen.
-![Users list](images/android-permissions/android-permission-3.jpg "Users list"){:height="400px" width="225px"}  
+6. You will see your user name in that screen.  
+![Users list](images/android-permissions/android-permission-3.jpg "Users list"){:height="400px" width="225px"}
 
-7. Click on your user name, then click on *x* on the top right corner in the *Permissions* screen. You will be asked to confirm deleting the user from the company. Click Yes
+7. Click on your user name, then click on *x* on the top right corner in the *Permissions* screen. You will be asked to confirm deleting the user from the company. Click Yes.  
 ![Remove user](images/android-permissions/android-permission-10.jpg "Remove User"){:height="400px" width="225px"}
