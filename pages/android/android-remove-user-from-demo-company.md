@@ -3,7 +3,7 @@ title: Biz Analyst Android - Remove User from Demo Company
 keywords: biz analyst, bizanalyst, bizanalyst desktop installation, install, bizanalyst installation, sync interval, biz analyst sync, bizanalyst sync, biz analyst sync interval
 summary: "Remove user from demo company"
 sidebar: android_sidebar
-permalink: /android/remove-user-from-demo-company.html
+permalink: android-remove-user-from-demo-company.html
 folder: android
 ---
 
